@@ -1,0 +1,5 @@
+{
+  "name": "OmniFlow",
+  "description": "A desktop-class API orchestration and execution tool. Design custom API workflows with a drag-and-drop style builder and execute them with a generated UI.",
+  "requestFramePermissions": []
+}
